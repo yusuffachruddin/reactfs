@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\fuse-configs",
+    "\\src\\app\\main",
+    "\\src\\app\\main\\example"
+  ],
+  "SelectedNode": "\\src\\app\\fuse-configs\\routesConfig.js",
+  "PreviewInSolutionExplorer": false
+}
